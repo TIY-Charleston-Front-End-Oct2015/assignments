@@ -17,13 +17,6 @@ After completing this assignment, you should…
 * Functionally be able to distinguish between an inline style, versus styles on the page, versus an external styles.
 * Be able to override certain styles using the 'cascade' from CSS rules.
 
-### Performance Objectives
-
-After completing this assignment, you be able to effectively use
-
-* Use ...
-
-
 ## Details
 
 ### Deliverables
