@@ -1,0 +1,11 @@
+{
+    "name": "cyoa",
+    "version": "0.0.1",
+    "title": "cyoa",
+    "description": "cyoa",
+    "keywords": [
+        "js",
+        "control-flow",
+        "datatypes"
+    ]
+}
