@@ -1,0 +1,11 @@
+{
+    "name": "chat-app",
+    "version": "0.0.1",
+    "title": "chat-app",
+    "description": "chat-app",
+    "keywords": [
+        "ajax",
+        "jquery",
+        "dom"
+    ]
+}
