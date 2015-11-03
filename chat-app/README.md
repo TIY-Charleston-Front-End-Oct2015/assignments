@@ -40,6 +40,16 @@ After completing this assignment, you be able to effectively use
 * A user may only delete their own messages.
 * A user cannot edit any chat messages.
 * A user should be able to edit their own username or handle.
+* You will have access to : `http://tiny-tiny.herokuapp.com/collections/<collectionName>` to use for your `GET, PUT, POST, DELETE` methods, and this server works as follows:
+
+```js
+/collections/<collectionName>     // GET
+/collections/<collectionName>     // POST
+/collections/<collectionName>/:id // GET
+/collections/<collectionName>/:id // PUT
+/collections/<collectionName>/:id // DELETE
+
+```
 
 ## Explorer Mode
 
