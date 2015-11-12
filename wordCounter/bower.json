@@ -1,0 +1,19 @@
+{
+  "name": "wordCounter",
+  "version": "0.0.0",
+  "authors": [
+    "Nathan Hall <nathan.mh@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "mocha": "~2.3.3",
+    "chai": "~3.4.1"
+  }
+}
