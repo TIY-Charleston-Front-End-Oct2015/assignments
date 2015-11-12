@@ -1,7 +1,7 @@
 # Make WORD COUNTER Test Pass
 
 ## Description
-We've now seen mocha and chai used for texting in practce.  It's time to put them to the TEST! HAH! PUN!
+We've now seen mocha and chai used for testing in practce.  It's time to put them to the TEST! HAH! PUN!
 
 ## Objectives
 
