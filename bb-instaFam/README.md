@@ -47,4 +47,5 @@ You will be creating an instagram-like clone, utilizing `Backbone.Model` for eac
 
 ## Additional Resources
 
-* Read []()
+* [Backbone JS](http://backbonejs.org/)
+* [Browserify](http://browserify.org/)
