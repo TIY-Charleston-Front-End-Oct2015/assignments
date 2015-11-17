@@ -1,0 +1,10 @@
+{
+    "name": "bb-imdb",
+    "version": "0.0.1",
+    "title": "Backbone Imdb",
+    "description": "Backbone Imdb",
+    "keywords": [
+        "backbone",
+        "jquery"
+    ]
+}
